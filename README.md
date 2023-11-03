@@ -33,4 +33,5 @@
 ### 3.4 Daily test summary report
 Raportul generat in data x arata rularea a 20 de test case-uri dintre care 5 failed.
 ![Daily report](https://github.com/RobertFurtuna10/TMTA12/blob/main/daily%20report.PNG)
+![Daily report](https://github.com/RobertFurtuna10/TMTA12/blob/main/Capture.PNG)
 
