@@ -35,3 +35,7 @@ Raportul generat in data x arata rularea a 20 de test case-uri dintre care 5 fai
 ![Daily report](https://github.com/RobertFurtuna10/TMTA12/blob/main/daily%20report.PNG)
 ![Daily report](https://github.com/RobertFurtuna10/TMTA12/blob/main/Capture.PNG)
 
+### 3.6 Test case results
+[TES-47 sau Testcase results](https://github.com/RobertFurtuna10/TMTA12/blob/main/TES-47.pdf)
+
+
