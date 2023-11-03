@@ -38,4 +38,6 @@ Raportul generat in data x arata rularea a 20 de test case-uri dintre care 5 fai
 ### 3.6 Test case results
 [TES-47 sau Testcase results](https://github.com/RobertFurtuna10/TMTA12/blob/main/TES-47.pdf)
 
+### 3.8 Test completion report
+![Test completion report](https://github.com/RobertFurtuna10/TMTA12/blob/main/test%20execution.PNG)
 
